@@ -1,8 +1,8 @@
 import {
   Navigate,
   Route,
-  BrowserRouter as Router,
-  /* HashRouter as Router, */
+  /* BrowserRouter as Router, */
+  HashRouter as Router,
   Routes
 } from "react-router-dom";
 import { TemplateRoute } from "./TemplateRoute"
