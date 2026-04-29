@@ -44,6 +44,6 @@ export default defineConfig({
     define: {
         'process.env.NODE_ENV': JSON.stringify(process.env.NODE_ENV),
     },
-    base: "/pressuredraper-website-old" //route base for github pages without domain
+    base: "/pressuredraper-website-old/" //route base for github pages without domain
     /* base: "/" */
 })
